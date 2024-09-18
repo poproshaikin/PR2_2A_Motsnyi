@@ -1,0 +1,14 @@
+D:\Soft Dev\С#\PR_2A_Zadani\Tester_a_vyrobek\bin\Debug\net9.0\Tester_a_vyrobek.exe
+D:\Soft Dev\С#\PR_2A_Zadani\Tester_a_vyrobek\bin\Debug\net9.0\Tester_a_vyrobek.deps.json
+D:\Soft Dev\С#\PR_2A_Zadani\Tester_a_vyrobek\bin\Debug\net9.0\Tester_a_vyrobek.runtimeconfig.json
+D:\Soft Dev\С#\PR_2A_Zadani\Tester_a_vyrobek\bin\Debug\net9.0\Tester_a_vyrobek.dll
+D:\Soft Dev\С#\PR_2A_Zadani\Tester_a_vyrobek\bin\Debug\net9.0\Tester_a_vyrobek.pdb
+D:\Soft Dev\С#\PR_2A_Zadani\Tester_a_vyrobek\obj\Debug\net9.0\Tester_a_vyrobek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Soft Dev\С#\PR_2A_Zadani\Tester_a_vyrobek\obj\Debug\net9.0\Tester_a_vyrobek.AssemblyInfoInputs.cache
+D:\Soft Dev\С#\PR_2A_Zadani\Tester_a_vyrobek\obj\Debug\net9.0\Tester_a_vyrobek.AssemblyInfo.cs
+D:\Soft Dev\С#\PR_2A_Zadani\Tester_a_vyrobek\obj\Debug\net9.0\Tester_a_vyrobek.csproj.CoreCompileInputs.cache
+D:\Soft Dev\С#\PR_2A_Zadani\Tester_a_vyrobek\obj\Debug\net9.0\Tester_a_vyrobek.dll
+D:\Soft Dev\С#\PR_2A_Zadani\Tester_a_vyrobek\obj\Debug\net9.0\refint\Tester_a_vyrobek.dll
+D:\Soft Dev\С#\PR_2A_Zadani\Tester_a_vyrobek\obj\Debug\net9.0\Tester_a_vyrobek.pdb
+D:\Soft Dev\С#\PR_2A_Zadani\Tester_a_vyrobek\obj\Debug\net9.0\Tester_a_vyrobek.genruntimeconfig.cache
+D:\Soft Dev\С#\PR_2A_Zadani\Tester_a_vyrobek\obj\Debug\net9.0\ref\Tester_a_vyrobek.dll

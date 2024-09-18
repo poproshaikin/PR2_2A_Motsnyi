@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Tester_a_vyrobek/1.0.0": {
+        "runtime": {
+          "Tester_a_vyrobek.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tester_a_vyrobek/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
