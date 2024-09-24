@@ -1,0 +1,15 @@
+D:\Soft Dev\С#\PR_2A_Zadani\Lanovka\bin\Debug\net9.0\Lanovka.exe
+D:\Soft Dev\С#\PR_2A_Zadani\Lanovka\bin\Debug\net9.0\Lanovka.deps.json
+D:\Soft Dev\С#\PR_2A_Zadani\Lanovka\bin\Debug\net9.0\Lanovka.runtimeconfig.json
+D:\Soft Dev\С#\PR_2A_Zadani\Lanovka\bin\Debug\net9.0\Lanovka.dll
+D:\Soft Dev\С#\PR_2A_Zadani\Lanovka\bin\Debug\net9.0\Lanovka.pdb
+D:\Soft Dev\С#\PR_2A_Zadani\Lanovka\obj\Debug\net9.0\Lanovka.GeneratedMSBuildEditorConfig.editorconfig
+D:\Soft Dev\С#\PR_2A_Zadani\Lanovka\obj\Debug\net9.0\Lanovka.AssemblyInfoInputs.cache
+D:\Soft Dev\С#\PR_2A_Zadani\Lanovka\obj\Debug\net9.0\Lanovka.AssemblyInfo.cs
+D:\Soft Dev\С#\PR_2A_Zadani\Lanovka\obj\Debug\net9.0\Lanovka.csproj.CoreCompileInputs.cache
+D:\Soft Dev\С#\PR_2A_Zadani\Lanovka\obj\Debug\net9.0\Lanovka.sourcelink.json
+D:\Soft Dev\С#\PR_2A_Zadani\Lanovka\obj\Debug\net9.0\Lanovka.dll
+D:\Soft Dev\С#\PR_2A_Zadani\Lanovka\obj\Debug\net9.0\refint\Lanovka.dll
+D:\Soft Dev\С#\PR_2A_Zadani\Lanovka\obj\Debug\net9.0\Lanovka.pdb
+D:\Soft Dev\С#\PR_2A_Zadani\Lanovka\obj\Debug\net9.0\Lanovka.genruntimeconfig.cache
+D:\Soft Dev\С#\PR_2A_Zadani\Lanovka\obj\Debug\net9.0\ref\Lanovka.dll
