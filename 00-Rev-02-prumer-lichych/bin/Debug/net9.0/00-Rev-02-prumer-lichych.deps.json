@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "00-Rev-02-prumer-lichych/1.0.0": {
+        "runtime": {
+          "00-Rev-02-prumer-lichych.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "00-Rev-02-prumer-lichych/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

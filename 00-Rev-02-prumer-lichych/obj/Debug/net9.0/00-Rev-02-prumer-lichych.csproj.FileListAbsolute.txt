@@ -1,0 +1,15 @@
+D:\Soft Dev\С#\PR_2A_Zadani\00-Rev-02-prumer-lichych\bin\Debug\net9.0\00-Rev-02-prumer-lichych.exe
+D:\Soft Dev\С#\PR_2A_Zadani\00-Rev-02-prumer-lichych\bin\Debug\net9.0\00-Rev-02-prumer-lichych.deps.json
+D:\Soft Dev\С#\PR_2A_Zadani\00-Rev-02-prumer-lichych\bin\Debug\net9.0\00-Rev-02-prumer-lichych.runtimeconfig.json
+D:\Soft Dev\С#\PR_2A_Zadani\00-Rev-02-prumer-lichych\bin\Debug\net9.0\00-Rev-02-prumer-lichych.dll
+D:\Soft Dev\С#\PR_2A_Zadani\00-Rev-02-prumer-lichych\bin\Debug\net9.0\00-Rev-02-prumer-lichych.pdb
+D:\Soft Dev\С#\PR_2A_Zadani\00-Rev-02-prumer-lichych\obj\Debug\net9.0\00-Rev-02-prumer-lichych.GeneratedMSBuildEditorConfig.editorconfig
+D:\Soft Dev\С#\PR_2A_Zadani\00-Rev-02-prumer-lichych\obj\Debug\net9.0\00-Rev-02-prumer-lichych.AssemblyInfoInputs.cache
+D:\Soft Dev\С#\PR_2A_Zadani\00-Rev-02-prumer-lichych\obj\Debug\net9.0\00-Rev-02-prumer-lichych.AssemblyInfo.cs
+D:\Soft Dev\С#\PR_2A_Zadani\00-Rev-02-prumer-lichych\obj\Debug\net9.0\00-Rev-02-prumer-lichych.csproj.CoreCompileInputs.cache
+D:\Soft Dev\С#\PR_2A_Zadani\00-Rev-02-prumer-lichych\obj\Debug\net9.0\00-Rev-02-prumer-lichych.sourcelink.json
+D:\Soft Dev\С#\PR_2A_Zadani\00-Rev-02-prumer-lichych\obj\Debug\net9.0\00-Rev-02-prumer-lichych.dll
+D:\Soft Dev\С#\PR_2A_Zadani\00-Rev-02-prumer-lichych\obj\Debug\net9.0\refint\00-Rev-02-prumer-lichych.dll
+D:\Soft Dev\С#\PR_2A_Zadani\00-Rev-02-prumer-lichych\obj\Debug\net9.0\00-Rev-02-prumer-lichych.pdb
+D:\Soft Dev\С#\PR_2A_Zadani\00-Rev-02-prumer-lichych\obj\Debug\net9.0\00-Rev-02-prumer-lichych.genruntimeconfig.cache
+D:\Soft Dev\С#\PR_2A_Zadani\00-Rev-02-prumer-lichych\obj\Debug\net9.0\ref\00-Rev-02-prumer-lichych.dll
