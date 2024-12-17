@@ -1,0 +1,15 @@
+D:\Soft Dev\С#\PR_2A_Zadani\Test_2_OOP\bin\Debug\net9.0\Test_2_OOP.exe
+D:\Soft Dev\С#\PR_2A_Zadani\Test_2_OOP\bin\Debug\net9.0\Test_2_OOP.deps.json
+D:\Soft Dev\С#\PR_2A_Zadani\Test_2_OOP\bin\Debug\net9.0\Test_2_OOP.runtimeconfig.json
+D:\Soft Dev\С#\PR_2A_Zadani\Test_2_OOP\bin\Debug\net9.0\Test_2_OOP.dll
+D:\Soft Dev\С#\PR_2A_Zadani\Test_2_OOP\bin\Debug\net9.0\Test_2_OOP.pdb
+D:\Soft Dev\С#\PR_2A_Zadani\Test_2_OOP\obj\Debug\net9.0\Test_2_OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Soft Dev\С#\PR_2A_Zadani\Test_2_OOP\obj\Debug\net9.0\Test_2_OOP.AssemblyInfoInputs.cache
+D:\Soft Dev\С#\PR_2A_Zadani\Test_2_OOP\obj\Debug\net9.0\Test_2_OOP.AssemblyInfo.cs
+D:\Soft Dev\С#\PR_2A_Zadani\Test_2_OOP\obj\Debug\net9.0\Test_2_OOP.csproj.CoreCompileInputs.cache
+D:\Soft Dev\С#\PR_2A_Zadani\Test_2_OOP\obj\Debug\net9.0\Test_2_OOP.sourcelink.json
+D:\Soft Dev\С#\PR_2A_Zadani\Test_2_OOP\obj\Debug\net9.0\Test_2_OOP.dll
+D:\Soft Dev\С#\PR_2A_Zadani\Test_2_OOP\obj\Debug\net9.0\refint\Test_2_OOP.dll
+D:\Soft Dev\С#\PR_2A_Zadani\Test_2_OOP\obj\Debug\net9.0\Test_2_OOP.pdb
+D:\Soft Dev\С#\PR_2A_Zadani\Test_2_OOP\obj\Debug\net9.0\Test_2_OOP.genruntimeconfig.cache
+D:\Soft Dev\С#\PR_2A_Zadani\Test_2_OOP\obj\Debug\net9.0\ref\Test_2_OOP.dll
