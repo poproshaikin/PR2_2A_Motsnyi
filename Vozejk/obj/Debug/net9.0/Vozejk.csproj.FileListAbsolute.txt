@@ -1,0 +1,15 @@
+D:\Soft Dev\С#\PR_2A_Zadani\Vozejk\bin\Debug\net9.0\Vozejk.exe
+D:\Soft Dev\С#\PR_2A_Zadani\Vozejk\bin\Debug\net9.0\Vozejk.deps.json
+D:\Soft Dev\С#\PR_2A_Zadani\Vozejk\bin\Debug\net9.0\Vozejk.runtimeconfig.json
+D:\Soft Dev\С#\PR_2A_Zadani\Vozejk\bin\Debug\net9.0\Vozejk.dll
+D:\Soft Dev\С#\PR_2A_Zadani\Vozejk\bin\Debug\net9.0\Vozejk.pdb
+D:\Soft Dev\С#\PR_2A_Zadani\Vozejk\obj\Debug\net9.0\Vozejk.GeneratedMSBuildEditorConfig.editorconfig
+D:\Soft Dev\С#\PR_2A_Zadani\Vozejk\obj\Debug\net9.0\Vozejk.AssemblyInfoInputs.cache
+D:\Soft Dev\С#\PR_2A_Zadani\Vozejk\obj\Debug\net9.0\Vozejk.AssemblyInfo.cs
+D:\Soft Dev\С#\PR_2A_Zadani\Vozejk\obj\Debug\net9.0\Vozejk.csproj.CoreCompileInputs.cache
+D:\Soft Dev\С#\PR_2A_Zadani\Vozejk\obj\Debug\net9.0\Vozejk.sourcelink.json
+D:\Soft Dev\С#\PR_2A_Zadani\Vozejk\obj\Debug\net9.0\Vozejk.dll
+D:\Soft Dev\С#\PR_2A_Zadani\Vozejk\obj\Debug\net9.0\refint\Vozejk.dll
+D:\Soft Dev\С#\PR_2A_Zadani\Vozejk\obj\Debug\net9.0\Vozejk.pdb
+D:\Soft Dev\С#\PR_2A_Zadani\Vozejk\obj\Debug\net9.0\Vozejk.genruntimeconfig.cache
+D:\Soft Dev\С#\PR_2A_Zadani\Vozejk\obj\Debug\net9.0\ref\Vozejk.dll
